@@ -1,0 +1,6 @@
+C:\Users\korisnik\source\repos\buricmario_domacazadaca\buricmario_domacazadaca\obj\Debug\buricmario_domacazadaca.csprojAssemblyReference.cache
+C:\Users\korisnik\source\repos\buricmario_domacazadaca\buricmario_domacazadaca\bin\Debug\buricmario_domacazadaca.exe.config
+C:\Users\korisnik\source\repos\buricmario_domacazadaca\buricmario_domacazadaca\bin\Debug\buricmario_domacazadaca.exe
+C:\Users\korisnik\source\repos\buricmario_domacazadaca\buricmario_domacazadaca\bin\Debug\buricmario_domacazadaca.pdb
+C:\Users\korisnik\source\repos\buricmario_domacazadaca\buricmario_domacazadaca\obj\Debug\buricmario_domacazadaca.exe
+C:\Users\korisnik\source\repos\buricmario_domacazadaca\buricmario_domacazadaca\obj\Debug\buricmario_domacazadaca.pdb
